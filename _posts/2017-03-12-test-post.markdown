@@ -8,3 +8,5 @@ Dies ist ein Test.
 
 # Test
 ## Test
+![Alternativer Text](/pictures/sofa.2.jpg)
+
