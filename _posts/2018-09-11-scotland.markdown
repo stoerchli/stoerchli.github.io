@@ -7,3 +7,10 @@ categories:  travel, pictures
 
 # Waterfall
 ![Alternativer Text](/pictures/waterfall.jpg)
+
+# Waterall 2
+![Alternativer Text](/pictures/waterfall_2.jpg)
+
+# Lake
+![Alternativer Text](/pictures/lake.jpg)
+
