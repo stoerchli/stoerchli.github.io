@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scotland"
+date:   2018-09-10 17:31:42 +0100
+categories:  travel, pictures
+---
+
+# Waterfall
+![Alternativer Text](/pictures/waterfal.jpg)
