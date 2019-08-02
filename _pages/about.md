@@ -2,9 +2,8 @@
 title: About stoerchli
 subtitle: 
 description: 
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/2.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
-
+![](/images/3.jpg)
 
