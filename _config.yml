@@ -48,8 +48,14 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-maps
 
 paginate: 6
 paginate_path: "/blog/page:num/"
 
 github_username: stoerchli
+
+maps:
+  google:
+    api_key: AIzaSyALSoZOeS3DacCAUpHxE3k6Lwk3eZCKYbU
+
