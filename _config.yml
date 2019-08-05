@@ -54,8 +54,3 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 github_username: stoerchli
-
-maps:
-  google:
-    api_key: AIzaSyCV8fcCaF0C-EAnw_-5PnPVs33TGSzRanAIzaSyCV8fcCaF0C-EAnw_-5PnPVs33TGSzRans
-
